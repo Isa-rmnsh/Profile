@@ -1,4 +1,3 @@
-# Profile
 # Isa Romansah
 
 **Educational Technology Graduate | Learning Development | Instructional Design**
